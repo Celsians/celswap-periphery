@@ -80,7 +80,7 @@ module.exports = {
       }),
       network_id: 3,       // Ropsten's id
       gas: 5500000,        // Ropsten has a lower block limit than mainnet
-      gasPrice: 50000000000,
+      gasPrice: 15000000000,
       confirmations: 2,    // # of confs to wait between deployments. (default: 0)
       skipDryRun: true     // Skip dry run before migrations? (default: false for public nets )
     },
